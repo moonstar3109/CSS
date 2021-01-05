@@ -1,0 +1,21 @@
+/* ========================== header ========================== */
+.navbar-nav li a{color: white;}
+header{background-color: #304047;}
+.navbar-brand {padding-top:10px;}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover 
+{background-color: #304047;}
+
+.nav>li>a:focus, .nav>li>a:hover{background-color: #53717e;}
+.navbar-toggle{border :1px solid white;}
+.icon-bar{background-color: white;}
+
+
+/* ========================== footer ========================== */
+
+footer{background-color:  #304047;}
+   
+.footer-copyright, .footer-menu li a{color: white;}
+.footer-menu li {display: inline; padding: 0 12px;}
+address{margin: 0;}
+footer{margin: 20px 0; padding: 30px;}
